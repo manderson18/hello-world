@@ -26,3 +26,5 @@ To-do List!
 - [ ] Calculations Gone Wrong
 - [ ] Guess my Number Part 1
 - [ ] Guess my Number Part 2
+
+When Finished: Merge into Master Branch and remove this message!

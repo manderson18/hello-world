@@ -4,7 +4,7 @@ Thing to do before the end of July 8
 To-do List!
 - [x] Learn how to create and use Pull Requests
 - [x] Learn basic MarkUp Protocols
-- [ ] Project Zero
+- [x] Project Zero
 - [ ] Fibonacci Sequence
 - [ ] Substrings
 - [ ] Learning the Ropes

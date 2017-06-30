@@ -27,4 +27,4 @@ To-do List!
 - [ ] Guess my Number Part 1
 - [ ] Guess my Number Part 2
 
-When Finished: Merge into Master Branch and remove this message!
+When Finished: Initiate Pull Request into Master Branch and remove this message!

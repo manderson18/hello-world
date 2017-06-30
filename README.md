@@ -1,20 +1,5 @@
-# hello-world
-First Repository
-
-**Gotta go Fast**
-
-Do *NOT* make changes without my permission or I will be __*A N G R Y*__
-
-Here's how to get started with Github: [Hello World](https://guides.github.com/activities/hello-world/)
-
-Name|Address
------------|---------------
-John Doe| 661 Hue Lane
-Jane Doe| 812 Jaw Drive
-Johnny Smithingson| 992 Kings Way
-Dank Memes| 404 Not Found
-
-
+# To-Do List
+Thing to do before the end of July 8
 
 To-do List!
 - [x] Learn how to create and use Pull Requests
@@ -27,4 +12,4 @@ To-do List!
 - [ ] Guess my Number Part 1
 - [ ] Guess my Number Part 2
 
-When Finished: Initiate Pull Request into Master Branch and remove this message!
+When Finished: Initiate Pull Request into Markup Practice and remove this message!

@@ -5,7 +5,7 @@ To-do List!
 - [x] Learn how to create and use Pull Requests
 - [x] Learn basic MarkUp Protocols
 - [x] Project Zero
-- [ ] Fibonacci Sequence
+- [x] Fibonacci Sequence
 - [ ] Substrings
 - [ ] Learning the Ropes
 - [ ] Calculations Gone Wrong
